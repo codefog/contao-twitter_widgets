@@ -2,9 +2,9 @@
 
 /**
  * twitter_widgets extension for Contao Open Source CMS
- * 
+ *
  * Copyright (C) 2013 Codefog
- * 
+ *
  * @package twitter_widgets
  * @link    http://codefog.pl
  * @author  Kamil Kuzminski <kamil.kuzminski@codefog.pl>
@@ -32,10 +32,6 @@ ClassLoader::addClasses(array
 	'Twitter\TwitterFollowButton'    => 'system/modules/twitter_widgets/hybrids/TwitterFollowButton.php',
 	'Twitter\TwitterTagButton'       => 'system/modules/twitter_widgets/hybrids/TwitterTagButton.php',
 	'Twitter\TwitterMentionButton'   => 'system/modules/twitter_widgets/hybrids/TwitterMentionButton.php',
-	'Twitter\TwitterProfileWidget'   => 'system/modules/twitter_widgets/hybrids/TwitterProfileWidget.php',
-	'Twitter\TwitterSearchWidget'    => 'system/modules/twitter_widgets/hybrids/TwitterSearchWidget.php',
-	'Twitter\TwitterFavoritesWidget' => 'system/modules/twitter_widgets/hybrids/TwitterFavoritesWidget.php',
-	'Twitter\TwitterListWidget'      => 'system/modules/twitter_widgets/hybrids/TwitterListWidget.php',
 	'Twitter\TwitterCustomWidget'    => 'system/modules/twitter_widgets/hybrids/TwitterCustomWidget.php'
 ));
 
