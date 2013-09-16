@@ -1,7 +1,7 @@
 twitter_widgets Changelog
 =========================
 
-Version 1.1.1 stable (2013-??-??)
+Version 1.1.1 stable (2013-09-16)
 ---------------------------------
 
 ### Improved
