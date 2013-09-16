@@ -1,6 +1,13 @@
 twitter_widgets Changelog
 =========================
 
+Version 1.1.1 stable (2013-??-??)
+---------------------------------
+
+### Improved
+- Added the autoload.ini file
+
+
 Version 1.1.0 stable (2013-07-04)
 ---------------------------------
 
