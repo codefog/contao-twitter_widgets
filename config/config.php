@@ -3,10 +3,10 @@
 /**
  * twitter_widgets extension for Contao Open Source CMS
  *
- * Copyright (C) 2013 Codefog Ltd
+ * Copyright (C) 2013 Codefog
  *
  * @package twitter_widgets
- * @author  Codefog Ltd <http://codefog.pl>
+ * @author  Codefog <http://codefog.pl>
  * @author  Kamil Kuzminski <kamil.kuzminski@codefog.pl>
  * @license LGPL
  */
@@ -16,7 +16,7 @@
  * Extension version
  */
 @define('TWITTER_WIDGETS_VERSION', '1.1');
-@define('TWITTER_WIDGETS_BUILD', '1');
+@define('TWITTER_WIDGETS_BUILD', '2');
 
 
 /**
