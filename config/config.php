@@ -16,7 +16,7 @@
  * Extension version
  */
 @define('TWITTER_WIDGETS_VERSION', '1.1');
-@define('TWITTER_WIDGETS_BUILD', '2');
+@define('TWITTER_WIDGETS_BUILD', '3');
 
 
 /**
