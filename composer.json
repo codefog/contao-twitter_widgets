@@ -1,0 +1,25 @@
+{
+    "name": "codefog/contao-twitter_widgets",
+    "description": "twitter_widgets extension for Contao Open Source CMS",
+    "keywords": ["contao", "twitter", "widgets", "social"],
+    "type": "contao-module",
+    "license": "LGPL-3.0+",
+    "authors": [
+        {
+            "name": "Codefog",
+            "homepage": "http://codefog.pl"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2",
+        "contao/core": ">=3.2",
+        "contao-community-alliance/composer-plugin": "2.*"
+    },
+    "extra": {
+        "contao": {
+            "sources": {
+                "": "system/modules/twitter_widgets"
+            }
+        }
+    }
+}
